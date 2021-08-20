@@ -1,4 +1,8 @@
 1.Levon Aloyan - LevonAloyan
 2.Arthur Sahakyan -r2rSahakyan
 3.Ara Gasparyan - araGasparyan
+<<<<<<< HEAD
 4.Sargis Sargsyan - sargiss987
+=======
+4.Irena Torosyan - irenatorosyan
+>>>>>>> 7b078dd47f2832aa783b44a453c46742161ef17c
