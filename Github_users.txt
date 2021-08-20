@@ -5,4 +5,9 @@
 4.Sargis Sargsyan - sargiss987
 =======
 4.Irena Torosyan - irenatorosyan
+<<<<<<< HEAD
 >>>>>>> 7b078dd47f2832aa783b44a453c46742161ef17c
+=======
+5.Anush Ghazaryan - anushikghazaryan
+>>>>>>> 351b53be5bb15be63a545e84fea541fe21b76133
+6.Sargis Sargsyan - sargis987
