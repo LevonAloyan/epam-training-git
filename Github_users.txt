@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Narek Grigoryan  - NarekGrigoryan90
+=======
 1.Levon Aloyan - LevonAloyan
 2.Arthur Sahakyan -r2rSahakyan
 3.Ara Gasparyan - araGasparyan
@@ -10,4 +13,9 @@
 =======
 5.Anush Ghazaryan - anushikghazaryan
 >>>>>>> 351b53be5bb15be63a545e84fea541fe21b76133
+<<<<<<< HEAD
 6.Sargis Sargsyan - sargis987
+=======
+6.Artur Mkrtumyan -ArturMkrtumyan
+>>>>>>> a72c2e00926f326627ae83ffeb44541889aed426
+7.Sargis Sargsyan - sargis987
