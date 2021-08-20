@@ -2,28 +2,10 @@
 1.Levon Aloyan - LevonAloyan
 2.Arthur Sahakyan -r2rSahakyan
 3.Ara Gasparyan - araGasparyan
-<<<<<<< HEAD
-=======
 4.Irena Torosyan - irenatorosyan
-<<<<<<< HEAD
->>>>>>> 7b078dd47f2832aa783b44a453c46742161ef17c
-=======
 5.Anush Ghazaryan - anushikghazaryan
-<<<<<<< HEAD
->>>>>>> 351b53be5bb15be63a545e84fea541fe21b76133
-<<<<<<< HEAD
-=======
-=======
->>>>>>> d24162fac0450483bd42ec58af218d4f928e7dfd
 6.Artur Mkrtumyan -ArturMkrtumyan
-<<<<<<< HEAD
->>>>>>> a72c2e00926f326627ae83ffeb44541889aed426
-=======
 7.Davit Baghoyan - davobaghoyan
 8.Anna Qaramyan - AnnQaramyan
-<<<<<<< HEAD
->>>>>>> 1aef273926fa7a843ea7f631fe0ce453603203f9
-=======
 9.Narek Grigoryan  - NarekGrigoryan90
->>>>>>> d24162fac0450483bd42ec58af218d4f928e7dfd
 10.Sargis Sargsyan - sargiss987
