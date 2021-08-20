@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Narek Grigoryan  - NarekGrigoryan90
+=======
+1.Levon Aloyan - LevonAloyan
+2.Arthur Sahakyan -r2rSahakyan
+3.Ara Gasparyan - araGasparyan
+4.Irena Torosyan - irenatorosyan
+5.Anush Ghazaryan - anushikghazaryan
+>>>>>>> 351b53be5bb15be63a545e84fea541fe21b76133
